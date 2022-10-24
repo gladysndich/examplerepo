@@ -1,3 +1,4 @@
 # examplerepo
-Added some new lines to README
-Something else here
+Added some new lines in the README
+Added another line
+
